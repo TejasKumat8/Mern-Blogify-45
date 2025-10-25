@@ -1,6 +1,7 @@
 # My MERN Stack Blog Application
 
-Welcome to my blog application! This is a full-featured blogging platform built with the MERN stack (MongoDB, Express, React, Node.js). The application provides a modern, responsive interface for creating and managing blog content with robust user management features.
+Welcome to my blog application! This is a full-featured blogging platform built with the MERN stack (MongoDB, Express, React, Node.js). The application provides a modern, responsive interface for creating and managing blog content with robust user management features.Dedicating this project to my lil brother Rishabh.
+
 #Demo:https://blogify-mern-app.onrender.com/
 
 ## Technologies Used
